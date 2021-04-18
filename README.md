@@ -1,4 +1,4 @@
-# This Project is currently under development!. 
+# This Project is currently under development! 💀
 
 ## Present Issues - 
 * Changed profile images not showing in posts
