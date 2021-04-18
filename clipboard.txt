@@ -1,0 +1,1 @@
+mongodb+srv://mayank123:<password>@devconnect.zxble.mongodb.net/<dbname>?retryWrites=true&w=majority
