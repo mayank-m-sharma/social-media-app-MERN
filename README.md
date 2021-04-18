@@ -1,4 +1,8 @@
-# This Project is currently under development! 💀
+# Social Media Application | Built on MERN  
+
+## This Project is currently under development! 💀
+
+<hr/>
 
 ## Present Issues - 
 * Changed profile images not showing in posts
